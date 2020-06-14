@@ -1,22 +1,6 @@
-a{
-font-style:bold;
-}
 nav{
-background-color:gray;
-}
-h2{
-text-align:center;
-}
-
-#box{
-background-color:gray;
-padding:10px;10px;10px;10px;
-
-margin:40px;
-width:300px;
-position:relative;
-
-}
-.card{
-background-color:gray;
-}
+	background-color:gray;
+	}
+	#tall-box{
+	background-color:gray;
+	}
